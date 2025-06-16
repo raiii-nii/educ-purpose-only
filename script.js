@@ -8,17 +8,17 @@ const phraseList = [
   "Are you sure?",
   "What if I asked really nicely?",
   "Pretty please",
-  "With a chocolate rice cake on top",
-  "What about a matcha frostie",
-  "PLEASE POOKIE",
-  "But :*(",
+  "Sure nagid na?? TvT",
+  "What about a cookies n' cream nga icecream",
+  "PLEASEEEEEE",
+  "But :((",
   "I am going to die",
   "Yep im dead",
-  "ok ur talking to Nathan's ghost",
-  "please babe",
+  "may iba ka bang ghstoo :((",
+  "please nganiiiii",
   ":((((",
   "PRETTY PLEASE",
-  "No :("
+  "No? okayyy :("
 ];
 
 let phraseIndex = 0;
